@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: orchid;
+    flex-direction: column;
+}
+#foot{
+    width: 95%;
+    height: 40px;
+    border: 1px solid #f5f561;
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+    background-color: #f5f561;
+}
+a{
+    text-decoration: none;
+    color: rgb(57, 57, 57);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
