@@ -1,0 +1,41 @@
+#nameOf{
+    background-color: #FFFFE0;
+    margin: 20px;
+    text-align: center;
+    border: 3px solid black;
+
+}
+#question{
+    background-color: DarkGoldenRod;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+
+}
+#responses{
+    background-color: DarkGoldenRod;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+}
+body{
+    background-color: #FFB6C1;
+    text-align: center;
+}
+#container{
+    background-color: #FFB6C1;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+
+}
