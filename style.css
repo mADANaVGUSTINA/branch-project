@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+#foot{
+    width: 95%;
+    width: 40px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
